@@ -59,7 +59,7 @@ const nuxtConfig: Configuration = {
     subFolders: false,
 
     routes: [
-      ...fg.sync(['./app/content/blog/**.json', './app/content/pages/**.json']).map(url => ({
+      ...fg.sync(['./app/content/noticias/**.json', './app/content/pages/**.json']).map(url => ({
         route: url.replace(/^.\/app\/content(\/pages)?|.json$/gi, ''),
         payload: require(url),
       })),
@@ -116,7 +116,7 @@ const nuxtConfig: Configuration = {
     description: manifest.description,
     theme_color: manifest.themeColor,
     background_color: manifest.backgroundColor,
-    lang: manifest.lang || 'en',
+    lang: manifest.lang || 'es',
   },
 
   meta: {

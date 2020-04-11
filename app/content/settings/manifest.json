@@ -1,8 +1,8 @@
 {
-  "name": "Bluise",
-  "shortName": "Bluise",
-  "description": "A Nuxt.js & Netlify CMS boilerplate.",
-  "themeColor": "#0b3765",
+  "name": "Dutra Lacroix Seguros",
+  "shortName": "Dutra Lacroix Seguros",
+  "description": "Larga trayectoria en seguros de todo tipo.",
+  "themeColor": "#2c73b5",
   "backgroundColor": "#ffffff",
-  "lang": "en"
+  "lang": "es"
 }

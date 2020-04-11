@@ -1,10 +1,10 @@
 {
-  "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "title": "Dutra Lacroix Seguros",
+  "titleTemplate": "| Larga trayectoria en seguros de todo tipo",
+  "welcomeText": "Empresa familiar dedicada a la gestión y asesoramiento personalizado en todo tipo de seguros. Trabajamos con todas las compañías del mercado.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
-  "loadingColor": "#0b3765",
+  "loadingColor": "#2c73b5",
   "seoDescription": "A quickstart for Nuxt & Netlify CMS",
   "seoMetaImage": ""
 }
