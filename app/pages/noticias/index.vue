@@ -10,7 +10,7 @@
     <div class="flex flex-wrap md:-mx-4 pb-20">
       <div v-for="(post, index) in posts" :key="index" class="w-full md:w-1/2 my-4 md:px-4">
         <div class="post">
-          <nuxt-link :to="`/blog/${post.slug}`">
+          <nuxt-link :to="`/noticias/${post.slug}`">
             <img
               class="w-full"
               :src="post.featuredImage || 'https://source.unsplash.com/random/640x340'"

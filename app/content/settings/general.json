@@ -1,10 +1,10 @@
 {
   "title": "Dutra Lacroix Seguros",
   "titleTemplate": "| Larga trayectoria en seguros de todo tipo",
-  "welcomeText": "Empresa familiar dedicada a la gestión y asesoramiento personalizado en todo tipo de seguros. Trabajamos con todas las compañías del mercado.",
+  "welcomeText": "# Dutra Lacroix Seguros.\n\nEmpresa familiar dedicada a la gestión y asesoramiento personalizado en todo tipo de seguros.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#2c73b5",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "Dutra Lacroix Seguros. Empresa familiar dedicada a la gestión y asesoramiento personalizado en todo tipo de seguros",
   "seoMetaImage": ""
 }
